@@ -2,4 +2,10 @@
 
 Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday
 
-- Select time intervalss
+- Select time intervals
+
+Include: Colour coded lessons, Room numbers, Names of teachers
+
+When lesson is clicked provide homework questions
+
+Store as 3D array, x(hours), y(days), z(weeks)
